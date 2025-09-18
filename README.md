@@ -1,5 +1,7 @@
 # WeatherVerse 🌤️
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A comprehensive weather application built with Next.js 15, React 19, and TypeScript that provides real-time weather data, travel planning, voice interaction, analytics, and more. WeatherVerse offers a modern, intuitive interface for weather monitoring and lifestyle management.
 
 ## ✨ Features
@@ -193,7 +195,7 @@ This application integrates with:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🐛 Troubleshooting
 
